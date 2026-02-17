@@ -1,22 +1,20 @@
 <div align="right">
   
-[1]: https://github.com/Pradnya1208
-[2]: https://www.linkedin.com/in/pradnya-patil-b049161ba/
-[3]: https://public.tableau.com/app/profile/pradnya.patil3254#!/
-[4]: https://twitter.com/Pradnya1208
+[1]: https://github.com/atmakurihymavathi
+[2]: https://www.linkedin.com/in/hymavathi-atmakuri-63073827a
 
 
-[![github](https://raw.githubusercontent.com/Pradnya1208/Telecom-Customer-Churn-prediction/c292abd3f9cc647a7edc0061193f1523e9c05e1f/icons/git.svg)][1]
-[![linkedin](https://raw.githubusercontent.com/Pradnya1208/Telecom-Customer-Churn-prediction/9f5c4a255972275ced549ea6e34ef35019166944/icons/iconmonstr-linkedin-5.svg)][2]
-[![tableau](https://raw.githubusercontent.com/Pradnya1208/Telecom-Customer-Churn-prediction/e257c5d6cf02f13072429935b0828525c601414f/icons/icons8-tableau-software%20(1).svg)][3]
-[![twitter](https://raw.githubusercontent.com/Pradnya1208/Telecom-Customer-Churn-prediction/c9f9c5dc4e24eff0143b3056708d24650cbccdde/icons/iconmonstr-twitter-5.svg)][4]
+[![github](https://raw.githubusercontent.com/atmakurihymavathi/Customer-Churn-prediction/c292abd3f9cc647a7edc0061193f1523e9c05e1f/icons/git.svg)][1]
+[![linkedin](https://raw.githubusercontent.com/atmakurihymavathi/Customer-Churn-prediction/9f5c4a255972275ced549ea6e34ef35019166944/icons/iconmonstr-linkedin-5.svg)][2]
+[![tableau](https://raw.githubusercontent.com/atmakurihymavathi/Customer-Churn-prediction/e257c5d6cf02f13072429935b0828525c601414f/icons/icons8-tableau-software%20(1).svg)][3]
+[![twitter](https://raw.githubusercontent.com/atmakurihymavathi/Customer-Churn-prediction/c9f9c5dc4e24eff0143b3056708d24650cbccdde/icons/iconmonstr-twitter-5.svg)][4]
 
 </div>
 
 
 # <div align="center">Telecom Customer Churn Prediction</div>
 
-![Intro](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/customer%20churn.jpeg?raw=true)
+![Intro](https://github.com/atmakurihymavathi/Customer-Churn-prediction/blob/main/output/customer%20churn.jpeg?raw=true)
 
 
 
@@ -53,11 +51,11 @@ To detect early signs of potential churn, one must first develop a holistic view
 ## Few glimpses of EDA:
 ### 1. Churn distribution:
 
-> ![Churn distribution](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/Churn%20Distribution.png?raw=true)
+> ![Churn distribution](https://github.com/atmakurihymavathi/Customer-Churn-prediction/blob/main/output/Churn%20Distribution.png?raw=true)
 > 26.6 % of customers switched to another firm.
 
 ### 2. Churn distribution with respect to gender:
-> ![Churn distribution wrt Gender](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/distributionWRTGender.PNG?raw=true)
+> ![Churn distribution wrt Gender](https://github.com/atmakurihymavathi/Customer-Churn-prediction/blob/main/output/distributionWRTGender.PNG?raw=true)
 
 
 > There is negligible difference in customer percentage/count who chnaged the service provider. Both genders behaved in similar fashion when it comes to migrating to another service provider/firm.`
